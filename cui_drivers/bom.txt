@@ -1,0 +1,16 @@
+
+Parts
+Quant	Mfg #		Mfg.	Dist #		Distributor		Description
+1	N.A.		Unknown	8987K24		McMaster Carr		304 Stainless Steel Tubing 0.12" OD, 0.01" Wall Thickness
+1	N.A.		Unknown	8987K44		McMaster Carr		304 Stainless Steel Tubing 0.058" OD, 0.005" Wall Thickness
+1	N.A.		Unknown	66215A24	McMaster Carr		Structural Adhesive Devcon, 2 Ton Epoxy, 1.69 oz., Cartridge
+1	N.A.		Unknown	8974K22		McMaster Carr		Multipurpose 6061 Aluminum 1/4" Diameter
+1	22-11-2042	Molex	WM2702-ND	Digikey			4 position 0.1" spaced male connector with ramp and rib
+
+Tools
+Quant	Dist#		Dist			Description
+1	3087A33		McMaster Carr		High-Speed Steel Round-Shank Reamer Oversized, 0.2510" Reamer Diameter
+1	8930A45		McMaster Carr		High-Speed Steel Round-Shank Reamer 31 Wire Gauge
+
+
+
