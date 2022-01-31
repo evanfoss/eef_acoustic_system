@@ -1,0 +1,3 @@
+
+The center distance from the microphone port to the 1/4" rod is 0.475".
+
